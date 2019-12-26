@@ -1,0 +1,13 @@
+---
+Air Mark 2:
+  PROTO BOM:
+    - Arduino Uno:
+      - https://store.arduino.cc/usa/arduino-uno-rev3
+    - Proto Shield:
+      - https://store.arduino.cc/usa/arduino-mega-proto-shield-rev3-pcb
+    - Mini Bread Board:
+      - https://www.digikey.com/product-detail/en/seeed-technology-co-ltd/319030005/1597-1265-ND/5488149
+    - TL081:
+      - https://www.digikey.com/product-detail/en/texas-instruments/TL081IP/TL081IP-ND/1674531
+    - Connectors:
+      - https://www.digikey.com/product-detail/en/sparkfun-electronics/PRT-12795/1568-1512-ND/5993860
